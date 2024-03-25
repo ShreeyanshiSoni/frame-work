@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="15" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-31T18:36:45 IST" name="Testing" finished-at="2024-01-31T18:36:45 IST" duration-ms="128">
+    <groups>
+    </groups>
+    <test started-at="2024-01-31T18:36:45 IST" name="one-two" finished-at="2024-01-31T18:36:45 IST" duration-ms="44">
+      <class name="TestNG.two">
+        <test-method signature="two()[pri:0, instance:TestNG.two@48974e45]" started-at="2024-01-31T18:36:45 IST" name="two" finished-at="2024-01-31T18:36:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- two -->
+      </class> <!-- TestNG.two -->
+      <class name="TestNG.one">
+        <test-method signature="one()[pri:0, instance:TestNG.one@a3d8174]" started-at="2024-01-31T18:36:45 IST" name="one" finished-at="2024-01-31T18:36:45 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- one -->
+      </class> <!-- TestNG.one -->
+    </test> <!-- one-two -->
+    <test started-at="2024-01-31T18:36:45 IST" name="three-four" finished-at="2024-01-31T18:36:45 IST" duration-ms="12">
+      <class name="TestNG.three">
+        <test-method signature="three()[pri:0, instance:TestNG.three@4738a206]" started-at="2024-01-31T18:36:45 IST" name="three" finished-at="2024-01-31T18:36:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+      </class> <!-- TestNG.three -->
+      <class name="TestNG.four">
+        <test-method signature="three()[pri:0, instance:TestNG.four@66d3eec0]" started-at="2024-01-31T18:36:45 IST" name="three" finished-at="2024-01-31T18:36:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- three -->
+      </class> <!-- TestNG.four -->
+      <class name="TestNG.ten_TC">
+        <test-method signature="five()[pri:0, instance:TestNG.ten_TC@18d87d80]" started-at="2024-01-31T18:36:45 IST" name="five" finished-at="2024-01-31T18:36:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- five -->
+        <test-method signature="six()[pri:0, instance:TestNG.ten_TC@18d87d80]" started-at="2024-01-31T18:36:45 IST" name="six" finished-at="2024-01-31T18:36:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- six -->
+      </class> <!-- TestNG.ten_TC -->
+    </test> <!-- three-four -->
+  </suite> <!-- Testing -->
+</testng-results>
